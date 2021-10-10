@@ -8,3 +8,4 @@
 
 ## Languages and IDE's
 - These are the languages and IDE's I can work with
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />]
