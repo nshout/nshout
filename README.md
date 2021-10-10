@@ -11,7 +11,7 @@ I sadly do not have many open-source projects, most of them are private. But I a
 - I love to work with Python and Discord, mainly developing Discord bots
 
 ## Languages and IDE's
-- These are the languages and IDE's I can work with. Should my help be required in any of the following languages, I will gladly do so!
+These are the languages and IDE's I can work with. Should my help be required in any of the following languages, I will gladly do so!
 <p align="left">
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
