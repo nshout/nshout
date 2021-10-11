@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nshout</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Nshout</h1>
 
 Hi! Welcome to my profile!<br>
 I'm a software engineer by day, working on projects that are there to help others!<br>
