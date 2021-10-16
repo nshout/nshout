@@ -5,7 +5,7 @@ I'm a software engineer by day, working on projects that are there to help other
 I sadly do not have many open-source projects, most of them are private. But I am going to have open-source projects from time to time!
 
 ### Why am I even here?
-- I became a software developer because I am very impressed by the software world and wanted to take a taste of it
+- I am very impressed by the software world and wanted to take a taste of it
 - I'm currently most familiar with Python
 - I'm currently also mastering Python as well
 - I love to work with Python and Discord, mainly developing Discord bots
