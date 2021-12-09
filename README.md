@@ -1,14 +1,14 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Nshout</h1>
 
 Hi! Welcome to my profile!<br>
-I'm a software engineer by day, working on projects that are there to help others!<br>
+I'm a software engineer by day (@Team Luna), working on projects that are there to help others!<br>
 I sadly do not have many open-source projects, most of them are private. But I am going to have open-source projects from time to time!
 
 ### Why am I even here?
 - I am very impressed by the software world and wanted to take a taste of it
 - I'm currently most familiar with Python
 - I'm currently also mastering Python as well
-- I love to work with Python and Discord, mainly developing Discord bots
+- I love to work with Python in connection with Discord, mainly developing Discord bots
 
 ## Languages and IDE's
 These are the languages and IDE's I can work with. Should my help be required in any of the following languages, I will gladly help out!
