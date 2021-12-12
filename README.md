@@ -25,7 +25,6 @@ Pssst... I love Python over anything else 👀
 
 ##
 [![Nshout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshout&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-##
 
 ## How to contact me
 If you wan't to contact me, you can do so on Discord! (Nshout#0001)
