@@ -23,6 +23,8 @@ These are the languages and IDE's I can work with. Should my help be required in
 </p>
 Pssst... I love Python over anything else 👀
 
+[![Nshout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshout&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Life goals
 - One of my main life goals is to work at a place where I can unleash my Python potential
 - Another life goal is in the direction of cybersecurity
