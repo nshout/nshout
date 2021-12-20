@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Nshout</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23898EFF&lines=Hi%2C+I'm+Nshout)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23898EFF&lines=Hi%2C+I'm+Nshout)](https://git.io/typing-svg))
 
 Hi! Welcome to my profile!<br>
 I'm a self-thaught Python developer and software engineer @ Team Luna.<br>
