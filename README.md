@@ -19,9 +19,8 @@ These are the languages I can work with.
 ##
   
 ### Some information
-- I'm currently most familiar with Python
-- I'm currently also mastering Python as well
-- Discord bot and selfbot developer
+- I'm currently most familiar with & mastering Python.
+- Discord bot and selfbot developer.
 
 ##
 ### My Discord
