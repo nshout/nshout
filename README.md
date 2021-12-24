@@ -25,4 +25,4 @@ These are the languages I can work with.
 
 ##
 ### My Discord
-[![My Discord](https://discord.c99.nl/widget/theme-3/406907871998246924.png)](https://discord.c99.nl/)
+[![My Discord](https://discord.c99.nl/widget/theme-2/406907871998246924.png)](https://discord.c99.nl/)
