@@ -15,7 +15,6 @@ These are the languages I can work with.
 
 ##
 [![Nshout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshout&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshout&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ##
   
 ### Some information
