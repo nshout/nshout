@@ -17,6 +17,5 @@ These are the languages I can work with.
 [![Nshout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshout&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
-##
 ### My Discord
 [![My Discord](https://discord.c99.nl/widget/theme-2/406907871998246924.png)](https://discord.c99.nl/)
