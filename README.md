@@ -16,10 +16,6 @@ These are the languages I can work with.
 ##
 [![Nshout's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshout&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ##
-  
-### Some information
-- I'm currently most familiar with & mastering Python.
-- Discord bot and selfbot developer.
 
 ##
 ### My Discord
