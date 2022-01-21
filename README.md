@@ -1,5 +1,5 @@
 <h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23898EFF&lines=Hi%2C+I'm+Nshout+"></a></h1>
-I'm a Python developer and software engineer @ Team Luna.<br>
+Python developer and software engineer @ Team Luna.<br>
 
 ### Languages
 These are the languages I can work with.
