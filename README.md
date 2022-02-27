@@ -19,5 +19,5 @@ These are the languages I work with.
 [![Nshout's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nshout&show_icons=true&bg_color=45,ff5eed,898eff&border_color=ffffff&icon_color=ffffff&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
-### My Discord
+### Discord
 [![My Discord](https://discord.c99.nl/widget/theme-2/406907871998246924.png)](https://discord.c99.nl/)
