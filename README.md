@@ -28,10 +28,10 @@
 </p>
 
 <p align="center">
-  <br align="center">Mainly developing on Luna selfbot.</br>
+  <br align="center">Mainly developing on Luna selfbot. (Free)</br>
+  <br align="center">https://www.team-luna.org</br>
   <table>
     <tr>
-      <a href="https://www.team-luna.org/">
       <td align="center" style="padding=0;width=50%;">
         <img src="https://cdn.discordapp.com/attachments/927033067468623882/963464770823016648/Luna_Banner.gif?size=4096"/>
       </td>
@@ -40,7 +40,7 @@
 </p>
 
 <h2 align="center">Discord</h2>
-<a href="https://github.com/slow">
+<a href="https://github.com/Nshout">
   <p align="center">
     <img src="https://discord.c99.nl/widget/theme-1/406907871998246924.png" alt="Nshout#0001">
   </p>
