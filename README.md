@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <br align="center">Mainly developing on Luna selfbot. (Free)</br>
+  <br align="center">Mainly developing on Luna selfbot.</br>
   <br align="center">https://www.team-luna.org</br>
   <table>
     <tr>
