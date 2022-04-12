@@ -27,6 +27,18 @@
 </table>
 </p>
 
+<p align="center">
+  <br align="center">Mainly developing on Luna selfbot.</br>
+  <table>
+    <tr>
+      <a href="https://www.team-luna.org/">
+      <td align="center" style="padding=0;width=50%;">
+        <img src="https://cdn.discordapp.com/attachments/927033067468623882/963464770823016648/Luna_Banner.gif?size=4096"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
 <h2 align="center">Discord</h2>
 <a href="https://github.com/slow">
   <p align="center">
