@@ -18,26 +18,18 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=nshout&title_color=989eff&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=989eff&hide_title=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=nshout&title_color=ffffff&text_color=C7C7C7&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ffffff&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=nshout&title_color=989eff&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=nshout&title_color=ffffff&text_color=C7C7C7&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
     </td>
   </tr>
 </table>
 </p>
 
-<p align="center">
-  <br align="center">Mainly developing on Luna selfbot.</br>
-  <br align="center">https://www.team-luna.org</br>
-  <table>
-    <tr>
-      <td align="center" style="padding=0;width=50%;">
-        <img src="https://cdn.discordapp.com/attachments/927033067468623882/963464770823016648/Luna_Banner.gif?size=4096"/>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nshout&theme=onestar&no-bg=true&column=7&no-frame=true&margin-w=11">
+</div>
 
 <h2 align="center">Discord</h2>
 <a href="https://github.com/Nshout">
