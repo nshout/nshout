@@ -1,3 +1,9 @@
+<h1 align="center">Python Fanatic & Cyberworld Anarchist</h2>
+  <p align="center">
+    <img src="https://count.getloli.com/get/@nshout?theme=rule34" />
+  </p>
+ </h1>
+
 <h2 align="center">Stats & Langs</h2>
   <p align="center">
     <br align="center">Python fanatic and software engineer.</br>
