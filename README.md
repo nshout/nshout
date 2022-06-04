@@ -1,4 +1,4 @@
-<h1 align="center">Python Fanatic & Cyberworld Anarchist</h2>
+<h1 align="center">Python Fanatic</h2>
   <p align="center">
     <img src="https://count.getloli.com/get/@nshout?theme=rule34" />
   </p>
