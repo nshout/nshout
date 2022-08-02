@@ -8,7 +8,6 @@
     <img height="30" src="https://img.shields.io/badge/C%23-758AAA?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/C%2B%2B-758AAA?style=for-the-badge&logo=c%2B%2B&&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/Kotlin-758AAA?style=for-the-badge&logo=kotlin&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/Java-758AAA?style=for-the-badge&logo=java&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/CSS3-758AAA?style=for-the-badge&logo=css3&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/HTML5-758AAA?style=for-the-badge&logo=html5&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/JavaScript-758AAA?style=for-the-badge&logo=javascript&logoColor=white">
