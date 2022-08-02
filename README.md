@@ -1,3 +1,5 @@
+![header](https://cdn.discordapp.com/attachments/983088901906382868/1003956858987487283/header.png?size=4096)
+
 <h1 align="center">Python Fanatic</h2>
   <p align="center">
     <img src="https://count.getloli.com/get/@nshout?theme=rule34" />
@@ -40,3 +42,5 @@
     <img src="https://discord.c99.nl/widget/theme-3/406907871998246924.png" alt="Nshout#0001">
   </p>
 </a>
+
+![footer](https://cdn.discordapp.com/attachments/983088901906382868/1003956858689695784/footer.png?size=4096)
