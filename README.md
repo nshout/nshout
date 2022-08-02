@@ -1,46 +1,39 @@
 ![header](https://cdn.discordapp.com/attachments/983088901906382868/1003956858987487283/header.png?size=4096)
 <img src="https://i.imgur.com/bHX52my.png" alt="Luna Ascii">
-<h1 align="center">Python Fanatic</h2
- </h1>
- 
+
+<h2 align="center">Langs & Stats</h2>
   <p align="center">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-  </p>
-
-
-<p align="center">
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=nshout&title_color=ffffff&text_color=C7C7C7&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ffffff&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Nshout&title_color=ffffff&text_color=C7C7C7&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
-</p>
-
+    <img height="30" src="https://img.shields.io/badge/Python-758AAA?style=for-the-badge&logo=Python&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/C-758AAA?style=for-the-badge&logo=c&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/C%23-758AAA?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/C%2B%2B-758AAA?style=for-the-badge&logo=c%2B%2B&&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Kotlin-758AAA?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Java-758AAA?style=for-the-badge&logo=java&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/CSS3-758AAA?style=for-the-badge&logo=css3&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/HTML5-758AAA?style=for-the-badge&logo=html5&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/JavaScript-758AAA?style=for-the-badge&logo=javascript&logoColor=white">
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nshout&theme=onestar&no-bg=true&column=7&no-frame=true&margin-w=11">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nshout&theme=oldie&no-bg=true&no-frame=true&margin-w=11&column=7"></br>
+    <img src="https://komarev.com/ghpvc/?username=Nshout&color=758AAA&style=for-the-badge" alt="antisocial#0001">
 </div>
 
+<h2 align="center">Work Environment</h2>
+  <p align="center">
+    <img height="30" src="https://img.shields.io/badge/Pycharm-758AAA?style=for-the-badge&logo=PyCharm&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Rider-758AAA?style=for-the-badge&logo=Rider&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/IntelliJ_IDEA-758AAA?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/CLion-758AAA?style=for-the-badge&logo=clion&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/WebStorm-758AAA?style=for-the-badge&logo=WebStorm&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Emacs-758AAA?style=for-the-badge&logo=gnu-emacs&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Discord-758AAA?style=for-the-badge&logo=Discord&logoColor=white">
+</p>
+
+</h2>
 <h2 align="center">Discord</h2>
-<a href="https://github.com/Nshout">
+<a href="https://github.com/Najuky">
   <p align="center">
     <img src="https://discord.c99.nl/widget/theme-3/406907871998246924.png" alt="Nshout#0001">
   </p>
 </a>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nshout&color=blueviolet&style=for-the-badge"/>
-  </p>
 
 ![footer](https://cdn.discordapp.com/attachments/983088901906382868/1003956858689695784/footer.png?size=4096)
