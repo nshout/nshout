@@ -1,5 +1,4 @@
 ![header](https://cdn.discordapp.com/attachments/983088901906382868/1003956858987487283/header.png?size=4096)
-<img src="https://i.imgur.com/bHX52my.png" alt="Luna Ascii">
 
 <h2 align="center">Langs & Stats</h2>
   <p align="center">
