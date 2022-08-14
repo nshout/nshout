@@ -30,7 +30,7 @@
 <h2 align="center">Discord</h2>
 <a href="https://github.com/Najuky">
   <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-3/406907871998246924.png" alt="Nshout#0001">
+    <img src="https://discord.c99.nl/widget/theme-4/406907871998246924.png" alt="Nshout#0001">
   </p>
 </a>
 
