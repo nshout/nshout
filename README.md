@@ -2,8 +2,7 @@
 #### Python Developer.
 ![Python Developer.](https://cdn.discordapp.com/attachments/1010909991147929613/1013458867759370290/Banner1.png?size=4096)
 
-2 years of experience with Python, still learning the efficient and advanced ways. 
-I am glad to help out others should there be the case.
+2 years of experience with Python, still learning the efficient and advanced ways.
 
 I prefer and mainly use JetBrains IDE's for everything.
 
