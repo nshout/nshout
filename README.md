@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Nshout
-#### Python Developer.
-![Python Developer.](https://cdn.discordapp.com/attachments/1016774617232330782/1020469415768227910/Banner_1.png?size=4096)
+#### Mainly working with Python.
+![Python Developer.](https://cdn.discordapp.com/attachments/1016774617232330782/1021202178116947988/Banner_2.png?size=4096)
 
-2 years of experience with Python, still learning the efficient and advanced ways.
+2 years of experience with Python, still lacking and learning the efficient and advanced ways.
 
 I prefer and mainly use JetBrains IDE's for everything.
 
