@@ -8,7 +8,7 @@ I prefer and mainly use JetBrains IDE's for everything.
 
 Skills: Python / C++ / Java / Kotlin.
 
-- 🔭 I’m currently working on nshout.auth 
+- 🔭 I’m currently working on Primrose
 - 📫 How to reach me: Nshout#0001 
 
 
