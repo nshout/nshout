@@ -2,7 +2,7 @@
 #### Mainly working with Python.
 ![Python Developer.](https://cdn.discordapp.com/attachments/1016774617232330782/1021202178116947988/Banner_2.png?size=4096)
 
-2 years of experience with Python, still lacking and learning the efficient and advanced ways.
+2 years of writing code, still lacking and learning the efficient and advanced ways.
 
 I prefer and mainly use JetBrains IDE's for everything.
 
