@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nshout
 #### Mainly working with Python.
 
-2 years of writing code, still lacking and learning the efficient and advanced ways.
+3 years of writing code, still lacking and learning the efficient and advanced ways.
 
 I prefer and mainly use JetBrains IDE's for everything.
 
