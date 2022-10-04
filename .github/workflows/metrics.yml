@@ -14,4 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Token
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          config_presets: "@lunar-red"
