@@ -1,1 +1,1 @@
-# Python, C++, Kotlin
+![Metrics](/github-metrics.svg)
