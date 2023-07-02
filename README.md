@@ -4,5 +4,5 @@
 </div>
 <div class="container" align="center">
   <div class="centered">GitHub Metrics</div>
-  <img src="/github-metrics.svg">
+  <img src="/github-metrics.svg" style="width:80%;">
 </div>
