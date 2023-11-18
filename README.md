@@ -1,2 +1,1 @@
-Software Developer  
-Discord: @nshout 
+@nshout 
