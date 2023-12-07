@@ -1,7 +1,6 @@
 ### nshout
 ```
-main language: rust
-rust selfbot framework advocate
+rust advocate
 ```
 
 ### contact
