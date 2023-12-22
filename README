@@ -1,1 +1,9 @@
-In real open source, you have the right to control your own destiny.
+Function std::mem::forget
+
+pub const fn forget<T>(t: T)
+
+Takes ownership and “forgets” about the value without running its destructor.
+
+Any resources the value manages, such as heap memory or a file handle, will linger forever in an unreachable state. However, it does not guarantee that pointers to this memory will remain valid.
+
+If you want to leak memory, see Box::leak.
