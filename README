@@ -8,5 +8,5 @@ Any resources the value manages, such as heap memory or a file handle, will ling
 
 If you want to leak memory, see Box::leak.
 
-Contact:
-Discord: @gxaura
+Contact me via Discord: 
+@gxaura
